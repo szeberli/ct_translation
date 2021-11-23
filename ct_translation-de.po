@@ -1,11 +1,88 @@
-msgid ""
-msgstr ""
+#: Anleitung: https://www.drupal.org/node/1814954
+#msgid ''
+#msgstr ''
+
 "Project-Id-Version: ct\\n"
 "MIME-Version: 1.0\\n"
 "Content-Type: text/plain; charset=UTF-8\\n"
 "Content-Transfer-Encoding: 8bit\\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\\n"
 
+
+
 #: Impressum
 msgid "Concept and realisation"
 msgstr "Konzept und Realisierung"
+
+
+#: Genesis
+msgid 'Please add Image-Style "content"!'
+msgstr 'Bitte Bild-Style "content" hinzufügen!'
+
+#: Views
+
+#: Node
+#: Agenda
+msgctxt "Long month name"
+msgid "January"
+msgstr "Januar"
+
+msgctxt "Long month name"
+msgid "February"
+msgstr "Februar"
+
+msgid "March"
+msgstr "März"
+
+msgctxt "Long month name"
+msgid "April"
+msgstr "April"
+
+msgctxt "Long month name"
+msgid "May"
+msgstr "Mai"
+
+msgctxt "Long month name"
+msgid "June"
+msgstr "Juni"
+
+msgctxt "Long month name"
+msgid "July"
+msgstr "Juli"
+
+msgctxt "Long month name"
+msgid "August"
+msgstr "August"
+
+msgctxt "Long month name"
+msgid "September"
+msgstr "September"
+
+msgctxt "Long month name"
+msgid "October"
+msgstr "Oktober"
+
+msgctxt "Long month name"
+msgid "November"
+msgstr "November"
+
+msgctxt "Long month name"
+msgid "December"
+msgstr "Dezember"
+
+#: Paragraphs
+msgid 'Select a created form'
+msgstr 'ein erstelltes Formular auswählen'
+
+#field
+msgid 'Short description of the image used by screen readers and displayed when the image is not loaded. This is important for accessibility. '
+msgstr 'Kurze Beschreibung des Bildes, das von den Bildschirmlesern verwendet und angezeigt wird, wenn das Bild nicht geladen wird. Dies ist wichtig für die Zugänglichkeit. '
+
+msgid 'Short description of the image used by screen readers and displayed when the image is not loaded. Enabling this field is recommended. '
+msgstr 'Kurze Beschreibung des Bildes, das von den Bildschirmlesern verwendet und angezeigt wird, wenn das Bild nicht geladen wird. Es wird empfohlen, dieses Feld zu aktivieren. '
+
+
+#:modules
+# Cropping Tool
+msgid 'Crop @property is smaller than the allowed @hard_limitpx for @crop_name'
+msgstr 'Die zugeschnittene @Property ist kleiner als das erlaubte @hard_limitpx für @crop_name.'
