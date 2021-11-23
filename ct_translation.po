@@ -1,0 +1,3 @@
+#: Impressum
+msgid "Concept and realisation"
+msgstr "Konzept und Realisierung "
