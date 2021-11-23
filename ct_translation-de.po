@@ -12,7 +12,7 @@
 
 #: Impressum
 msgid "Concept and realisation"
-msgstr "Konzept und Realisierung"
+msgstr "Konzept, Design und Realisation"
 
 
 #: Genesis
