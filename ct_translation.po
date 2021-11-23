@@ -8,4 +8,4 @@ msgstr ""
 
 #: Impressum
 msgid "Concept and realisation"
-msgstr "Konzept und Realisierung "
+msgstr "Konzept und Realisierung"
