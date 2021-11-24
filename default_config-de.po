@@ -1,11 +1,7 @@
-# Anleitung www.drupal.org/node/1814954
-# Datum 23.11.2021 - size
-
-#
-msgid ""
-msgstr ""
+# German translation of SpamSpan filter (8.x-1.2)
+# Copyright (c) 2020 by the German translation team
 "Project-Id-Version: default_config\n"
-"POT-Creation-Date: 2021-11-24 10:05+0001\n"
+"POT-Creation-Date: 2020-09-25 01:06+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -13,19 +9,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#: Impressum 
-
 msgid "Owner"
 msgstr "Inhaber"
-
 msgid "Concept and realisation"
 msgstr "Konzept, Design und Realisation"
-
-msgid "Trade register entry"
-msgstr "Handelsregistereintrag"
-
-msgid "<h2 id=\"datenschutz\">Data privacy</h2>"
-msgstr "<h2 id=\"datenschutz\">Datenschutz</h2>"
-
-msgid "<h3 id=\"haftungsausschluss\">exclusion of liability</h3><p>The author does not take over any guarantee regarding the correctness, accuracy, topicality, reliability and completeness of the information.<p> Liability claims against the author for material or immaterial damages resulting from access to or use or non-use of the published information, from misuse of the connection or from technical faults are excluded.</p><p>All offers are without obligation. The author expressly reserves the right to change, supplement or delete parts of the pages or the entire offer without separate announcement or to discontinue the publication temporarily or permanently."
-msgstr "<h3 id=\"haftungsausschluss\">Haftungsausschluss</h3><p>Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen.</p><p>Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen.</p><p>Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.</p>"
