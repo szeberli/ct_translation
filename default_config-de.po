@@ -1,4 +1,4 @@
-#: "Anleitung https://www.drupal.org/node/1814954"
+#: "Anleitung www.drupal.org/node/1814954"
 #: "Datum 23.11.2021 - size"
 
 #msgid ''
